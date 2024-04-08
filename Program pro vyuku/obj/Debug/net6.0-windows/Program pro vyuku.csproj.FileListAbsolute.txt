@@ -1,0 +1,20 @@
+D:\Github\Naucny program\Program pro vyuku\bin\Debug\net6.0-windows\Program pro vyuku.exe
+D:\Github\Naucny program\Program pro vyuku\bin\Debug\net6.0-windows\Program pro vyuku.deps.json
+D:\Github\Naucny program\Program pro vyuku\bin\Debug\net6.0-windows\Program pro vyuku.runtimeconfig.json
+D:\Github\Naucny program\Program pro vyuku\bin\Debug\net6.0-windows\Program pro vyuku.dll
+D:\Github\Naucny program\Program pro vyuku\bin\Debug\net6.0-windows\Program pro vyuku.pdb
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\App.g.cs
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku_MarkupCompile.cache
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku_MarkupCompile.lref
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku.g.resources
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku.AssemblyInfoInputs.cache
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku.AssemblyInfo.cs
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku.csproj.CoreCompileInputs.cache
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku.dll
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\refint\Program pro vyuku.dll
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku.pdb
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\Program pro vyuku.genruntimeconfig.cache
+D:\Github\Naucny program\Program pro vyuku\obj\Debug\net6.0-windows\ref\Program pro vyuku.dll
